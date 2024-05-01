@@ -35,7 +35,15 @@ p {
   color: hsl(220, 15%, 55%);
   padding: 1rem 3rem;
 }
+.attribution {
+  margin-top: 20px;
+  font-size: 11px;
+  text-align: center;
+}
 
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
 /* media queries */
 @media screen and (max-width: 480px) {
   #qr-container {
