@@ -20,7 +20,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [Add solution URL here](https://github.com/Reney17/qr-code-component-main.git)
-- Live Site URL: [Add live site URL here]()
+- Live Site URL: [Add live site URL here](https://reney17.github.io/qr-code-component-main/)
 
 ## My process
 
@@ -33,5 +33,5 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Author
 
-- Website - [Nicolette Mashaba](https://nicmashportfolio.netlify.app/)
+- Website - [Nicolette Mashaba](https://reney17.github.io/qr-code-component-main/)
 - Frontend Mentor - [@Reney17](https://www.frontendmentor.io/profile/Reney17)
